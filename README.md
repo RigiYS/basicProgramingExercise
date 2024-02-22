@@ -1,4 +1,4 @@
-# basicProgramingExercis
+# basicProgramingExercise
 
 Name : Muhammad Rigi Yuda Syahrial
 
@@ -6,7 +6,7 @@ Student Number : 20230040116
 
 Study Program : Informatic Engineering
 
-# basicProgramingExercis
+# basicProgramingExercise
 
 Name : Wildan Fadillah
 
