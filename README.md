@@ -6,7 +6,7 @@ Student Number : 20230040116
 
 Study Program : Informatic Engineering
 
-# Collaborator
+# Collaborators
 
 Name : Wildan Fadillah
 
